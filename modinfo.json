@@ -1,0 +1,21 @@
+{
+  "author": "wondible",
+  "build": "87296",
+  "category": ["ui", "in-game"],
+  "context": "client",
+  "date": "2015/09/10",
+  "description": "Show the sim speed next to the clock.",
+  "display_name": "Sim Speed",
+  "forum": null,
+  "identifier": "com.wondible.pa.sim_speed",
+  "priority": 100,
+  "scenes": {
+    "live_game_options_bar": [
+      "coui://ui/mods/sim_speed/sim_speed.css",
+      "coui://ui/mods/sim_speed/sim_speed.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+

@@ -1,0 +1,15 @@
+.div_sim_speed {
+  height: 30px;
+  width: 80px;
+  font-family: 'Sansation Bold';
+  font-size: 18px;
+  color: #00b3ff;
+  text-shadow: 0px 0px 30px #00b3ff;
+  background: black;
+  border-bottom: solid #444 3px;
+  margin: 0px 0px -2px -4px;
+  padding: 0px 6px 0px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
