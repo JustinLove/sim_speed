@@ -7,6 +7,7 @@
   "description": "Show the sim speed next to the clock.",
   "display_name": "Sim Speed",
   "forum": null,
+  "icon": "http://wondible.com/pa/icons/sim_speed.png",
   "identifier": "com.wondible.pa.sim_speed",
   "priority": 100,
   "scenes": {
