@@ -1,4 +1,6 @@
 (function() {
+  "use strict";
+
   var now = function() { return new Date().getTime() }
   var previousSimTime = 0
   var previousUITime = now()
@@ -18,7 +20,7 @@
     }
 
     var t = now()
-    uiStep = t - previousUITime
+    var uiStep = t - previousUITime
     previousUITime = t
 
     simSamples.unshift(simStep)
